@@ -5,21 +5,38 @@
 
 
 ```javascript
-const name = "Muhammed Azhar";
-const role = "Full Stack Developer";
-const focus = "Front-End Development";
 
-const introduction =
-" 👋 Hello there! I'm Muhammed Azhar, a passionate software developer with a flair for front-end development. 💻✨.
-As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces.
+import React from 'react';
 
-With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly
-integrating them into functional websites and applications.
+const Introduction = () => {
+  const name = "Muhammed Azhar";
+  const role = "Full Stack Developer";
+  const focus = "Front-End Development";
 
-Let's connect and collaborate on bringing your ideas to life! Together, we can create stunning front-end solutions
-that make a lasting impact. 🚀✨ "
+  const introduction = (
+    <>
+      <p>
+        👋Hello there! I'm {name}, a passionate software developer with a flair for front-end development. 💻✨
+        As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces.
 
-document.getElementById('intro').innerHTML=introduction
+        With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly
+        integrating them into functional websites and applications.
+
+        Let's connect and collaborate on bringing your ideas to life! Together, we can create stunning front-end solutions
+        that make a lasting impact.🚀✨
+      </p>
+    </>
+  );
+
+  return (
+    <div id="intro">
+      {introduction}
+    </div>
+  );
+};
+
+export default Introduction;
+
 
 ```
 **languages and tools:**
