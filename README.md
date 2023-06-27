@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1687861264/git/Muhamed.azhar_euz71s.png" alt="Marton Lederer" />
-</h1>
+
+<img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1687861264/git/Muhamed.azhar_euz71s.png" alt="Logo" width="auto" height="60px">
+
+
 
 
 ```javascript
