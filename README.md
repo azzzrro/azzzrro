@@ -9,14 +9,13 @@
 import React from 'react';
 
 const Introduction = () => {
+
   const name = "Muhammed Azhar";
-  const role = "Full Stack Developer";
-  const focus = "Front-End Development";
 
   const introduction = (
     <>
       <p>
-        👋Hello there! I'm {name}, a passionate {role} with a flair for {focus}. 💻✨
+        👋Hello there! I'm {name}, a passionate Full Stack Developer with a flair for Front-End Development. 💻✨
         As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces.
 
         With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly
