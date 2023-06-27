@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1687878523/git/Muhamed.azhar_mxza0b.png" alt="Logo" width="50%" style="max-width: 400px;">
+<img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1687881418/git/red_otyvpa.png" alt="Logo" width="70%" style="max-width: 400px;">
 
 
 
