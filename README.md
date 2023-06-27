@@ -16,7 +16,7 @@ const Introduction = () => {
   const introduction = (
     <>
       <p>
-        👋Hello there! I'm {name}, a passionate software developer with a flair for front-end development. 💻✨
+        👋Hello there! I'm {name}, a passionate {role} with a flair for {focus}. 💻✨
         As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces.
 
         With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly
