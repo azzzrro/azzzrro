@@ -70,10 +70,10 @@ export default Introduction;
   <img align="left" alt="Azhars LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/azzzrro/">
-  <img align="left" alt="Azhar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Azhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/azzzrro">
-  <img align="left" alt="Muhammed Azhar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Muhammed Azhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" />
 </a>
 
 
