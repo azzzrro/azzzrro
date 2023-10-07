@@ -1,7 +1,26 @@
 
 <img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1689766108/git/yara/readme_name_qocdnz.png" alt="Logo" width="70%" style="max-width: 400px;">
 
-
+<p align="left">
+  <a href="https://github.com/azzzrro/azzzrro">
+    <img src="https://komarev.com/ghpvc/?username=azzzrro&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/azzzrro?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/azzzrro?color=yellow&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/azzzrro">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.6K-blue?color=blue&logo=linkedin">
+  </a>
+  <a href="https://www.behance.net/azzzrro">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/followers-7-blue?color=yellowgreen&logo=behance">
+  </a>
+  <a href="https://stackoverflow.com/users/21353852">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21353852?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.leetcode.com/helloazzzrro">
+    <img alt="HackerRank" src="https://img.shields.io/badge/leetcode-25+-red?color=red&logo=leetcode">
+  </a>
+</p>
 
 
 ```javascript
@@ -57,7 +76,7 @@ export default Introduction;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
