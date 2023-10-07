@@ -88,6 +88,9 @@ export default Introduction;
 <a href="https://www.linkedin.com/in/azzzrro/">
   <img align="left" alt="Azhars LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
 </a>
+<a href="https://www.behance.net/azzzrro">
+  <img align="left" alt="Azhars Behance" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" />
+</a>
 <a href="https://www.instagram.com/azzzrro/">
   <img align="left" alt="Azhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
 </a>
