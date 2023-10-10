@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1689766108/git/yara/readme_name_qocdnz.png" alt="Logo" width="70%" style="max-width: 400px;">
+<img src="https://res.cloudinary.com/dmbpxal0o/image/upload/v1696963940/git/yara/readme_name_dk0k75.png" alt="Logo" width="70%" style="max-width: 400px;">
 
 <p align="left">
   <a href="https://github.com/azzzrro/azzzrro">
