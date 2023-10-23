@@ -14,12 +14,12 @@
   <a href="https://www.behance.net/azzzrro">
     <img alt="Facebook friends" src="https://img.shields.io/badge/followers-7-blue?color=yellowgreen&logo=behance">
   </a>
-  <a href="https://stackoverflow.com/users/21353852">
+<!--   <a href="https://stackoverflow.com/users/21353852">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21353852?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.leetcode.com/helloazzzrro">
+  </a> -->
+<!--   <a href="https://www.leetcode.com/helloazzzrro">
     <img alt="HackerRank" src="https://img.shields.io/badge/leetcode-25+-red?color=red&logo=leetcode">
-  </a>
+  </a> -->
 </p>
 
 
