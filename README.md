@@ -64,9 +64,9 @@ As a front-end enthusiast, I thrive on creating captivating user experiences thr
 <a href="https://www.behance.net/azzzrro">
   <img align="left" alt="Azhars Behance" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" />
 </a>
-<a href="https://www.instagram.com/azzzrro/">
+<!-- <a href="https://www.instagram.com/azzzrro/">
   <img align="left" alt="Azhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
-</a>
+</a> -->
 <a href="https://twitter.com/azzzrro">
   <img align="left" alt="Muhammed Azhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" />
 </a>
