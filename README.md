@@ -4,14 +4,17 @@
   <a href="https://github.com/azzzrro/azzzrro">
     <img src="https://komarev.com/ghpvc/?username=azzzrro&color=red" alt="profile views" />
   </a>
+  
   <a href="https://github.com/azzzrro?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/azzzrro?color=yellow&logo=github">
   </a>
+  
   <a href="https://www.linkedin.com/in/azzzrro">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.3K-blue?color=blue&logo=linkedin">
   </a>
+  
   <a href="https://www.behance.net/azzzrro">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/followers-7-blue?color=yellowgreen&logo=behance">
+    <img alt="Behance" src="https://img.shields.io/badge/followers-7-blue?color=yellowgreen&logo=behance">
   </a>
 <!--   <a href="https://stackoverflow.com/users/21353852">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21353852?color=orange&label=reputation&logo=stackoverflow">
@@ -22,41 +25,12 @@
 </p>
 
 
-```javascript
+👋 Hello there! I'm Muhammed Azhar, a passionate Full Stack Developer with a flair for Front-End Development. 💻✨
 
-import React from 'react';
+As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces. With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly integrating them into functional websites and applications. Let's connect and collaborate on bringing your ideas to life! Together, we can create stunning front-end solutions that make a lasting impact.🚀✨
 
-const Introduction = () => {
-
-  const name = "Muhammed Azhar";
-
-  const introduction = (
-    <>
-      <p>
-        👋Hello there! I'm {name}, a passionate Full Stack Developer with a flair for Front-End Development. 💻✨
-        As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces.
-
-        With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly
-        integrating them into functional websites and applications.
-
-        Let's connect and collaborate on bringing your ideas to life! Together, we can create stunning front-end solutions
-        that make a lasting impact.🚀✨
-      </p>
-    </>
-  );
-
-  return (
-    <div id="intro">
-      {introduction}
-    </div>
-  );
-};
-
-export default Introduction;
-
-
-```
-**languages and tools:**
+        
+<h4/> languages and tools <h4/>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -83,7 +57,7 @@ export default Introduction;
 
 
 
-<h4> Connect me in socials: </h4>
+<h4> Connect me in socials </h4>
 <a href="https://www.linkedin.com/in/azzzrro/">
   <img align="left" alt="Azhars LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
 </a>
@@ -101,7 +75,36 @@ export default Introduction;
 </a>
 
 
+<br/>
 
+<h4> Stats </h4>
+ <div style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+">
+  <p align="center">
+  <a href="https://github.com/azzzrro/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzzrro&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+   </p>
+  <br/>
+<br/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=azzzrro&theme=gruvbox"/>
+  </a>
+</p>
+<br/>
+<br/>
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=azzzrro&show_icons=true&theme=dracula" alt="muhammed.azhar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzzrro&theme=dracula&layout=compact" alt="muhammed.azhar" />
+</p>
+  <br/>
+<br/>
+</div>
 
 
 
