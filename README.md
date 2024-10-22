@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/azzzrro">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.3K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.6K-blue?color=blue&logo=linkedin">
   </a>
   
   <a href="https://www.behance.net/azzzrro">
