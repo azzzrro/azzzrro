@@ -70,7 +70,7 @@ As a front-end enthusiast, I thrive on creating captivating user experiences thr
 <a href="https://twitter.com/azzzrro">
   <img align="left" alt="Muhammed Azhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" />
 </a>
-<a href="mailto:helloazzzrro@gmail.com">
+<a href="mailto:muhammedazhar.dev@gmail.com">
   <img align="left" alt="Muhammed Azhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
 </a>
 
