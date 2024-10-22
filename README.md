@@ -30,7 +30,7 @@
 As a front-end enthusiast, I thrive on creating captivating user experiences through sleek and intuitive interfaces. With my expertise in software development, I bring ideas to life by crafting pixel-perfect designs and seamlessly integrating them into functional websites and applications. Let's connect and collaborate on bringing your ideas to life! Together, we can create stunning front-end solutions that make a lasting impact.🚀✨
 
         
-<h4/> languages and tools <h4/>
+## languages and tools
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -57,7 +57,7 @@ As a front-end enthusiast, I thrive on creating captivating user experiences thr
 
 
 
-<h4> Connect me in socials </h4>
+## Connect me in socials
 <a href="https://www.linkedin.com/in/azzzrro/">
   <img align="left" alt="Azhars LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
 </a>
@@ -77,7 +77,7 @@ As a front-end enthusiast, I thrive on creating captivating user experiences thr
 
 <br/>
 
-<h4> Stats </h4>
+## Stats
  <div style="
     display: flex;
     align-items: center;
